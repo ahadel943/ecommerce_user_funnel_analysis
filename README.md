@@ -57,6 +57,7 @@ After cleaning, preparing and understanding the data found the following notes
 | _cart_to_checkout_do | PERCENTAGE | **USER BEHAVIOR KPI** |
 | _checkout_to_purchase_do | PERCENTAGE | **USER BEHAVIOR KPI** |
 
+![user_funnel](https://github.com/ahadel943/ecommerce_user_funnel_analysis_using_powerbi/blob/main/visual/user_funnel.jpg)
 
 ## Conclusions
 1) By using power bi DAX we uncovered the following KPIs values:
